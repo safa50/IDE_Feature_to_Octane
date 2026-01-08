@@ -14,7 +14,8 @@ import com.hp.lft.verifications.*;
 import unittesting.*;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(plugin = {"com.hp.lft.cucumberv4.CucumberReporter"},
+@CucumberOptions(plugin = {"com.hp.lft.cucumberv4.CucumberReporter",
+        "com.microfocus.adm.almoctane.gherkin.OctaneGherkinFormatter:target/octane-gherkin-results.xml"},
                  features = "classpath:com/opentext")
 public class FTDTest extends UnitTestClassBase {
 

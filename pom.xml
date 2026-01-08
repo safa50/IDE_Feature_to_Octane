@@ -80,6 +80,12 @@
             <version>2.8.9</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.microfocus.adm.almoctane.bdd</groupId>
+            <artifactId>octane-cucumber-jvm</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+
     </dependencies>
 
     <repositories>
