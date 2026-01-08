@@ -1,0 +1,148 @@
+<Results>
+    <GeneralInfo>
+        <Name/>
+        <RunStartTime>2026-01-08 10:48:26</RunStartTime>
+        <Timezone>GMT+0000 (Coordinated Universal Time)</Timezone>
+        <OrchestrationToolName>JUnit</OrchestrationToolName>
+        <OrchestrationToolVersion/>
+        <ReportTitle>OpenText Functional Testing for Developers Report</ReportTitle>
+    </GeneralInfo>
+    <ReportNode type="Run">
+        <Data>
+            <Name>Run Results</Name>
+            <Description><![CDATA[ ]]></Description>
+            <StartTime>2026-01-08 10:48:26</StartTime>
+            <Result>Passed</Result>
+            <Links/>
+            <Duration><![CDATA[00:00:00.253]]></Duration>
+            <Extension>
+                <Any>
+                    <IconKey>Run</IconKey>
+                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                </Any>
+            </Extension>
+            <Environment>
+                <OSInfo><![CDATA[Windows_NT 10.0.17763]]></OSInfo>
+                <HostName>nimbusclient</HostName>
+                <NumberOfCores>8</NumberOfCores>
+                <CpuInfo/>
+                <TotalMemory>10641</TotalMemory>
+                <Locale><![CDATA[en-US]]></Locale>
+                <Timezone><![CDATA[GMT+0000 (Coordinated Universal Time)]]></Timezone>
+                <User><![CDATA[nimbusclient\demo]]></User>
+            </Environment>
+            <TestedApplication/>
+            <ToolName>OpenText Functional Testing for Developers</ToolName>
+            <ToolVersion><![CDATA[25.2]]></ToolVersion>
+        </Data>
+        <ReportNode type="Package">
+            <Data>
+                <Name><![CDATA[com.opentext]]></Name>
+                <Description><![CDATA[Version: N/A]]></Description>
+                <StartTime>2026-01-08 10:48:26</StartTime>
+                <Result>Passed</Result>
+                <Links/>
+                <Duration><![CDATA[00:00:00.013]]></Duration>
+                <Extension>
+                    <Any>
+                        <IconKey>Package</IconKey>
+                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                    </Any>
+                </Extension>
+            </Data>
+            <ReportNode type="Class">
+                <Data>
+                    <Name><![CDATA[com.opentext.FTDTest]]></Name>
+                    <Description/>
+                    <StartTime>2026-01-08 10:48:26</StartTime>
+                    <Result>Passed</Result>
+                    <Links/>
+                    <Duration><![CDATA[00:00:00.013]]></Duration>
+                    <Extension>
+                        <Any>
+                            <IconKey>Class</IconKey>
+                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                        </Any>
+                    </Extension>
+                </Data>
+                <ReportNode type="Feature">
+                    <Data>
+                        <Name><![CDATA[<b>Feature: </b>Calculator Addition]]></Name>
+                        <Description/>
+                        <StartTime>2026-01-08 10:48:26</StartTime>
+                        <Result>Passed</Result>
+                        <Links/>
+                        <Duration><![CDATA[00:00:00.010]]></Duration>
+                        <Extension>
+                            <Any>
+                                <IconKey>Feature</IconKey>
+                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                            </Any>
+                        </Extension>
+                    </Data>
+                    <ReportNode type="Scenario">
+                        <Data>
+                            <Name><![CDATA[<b>Scenario: </b>Add two numbers]]></Name>
+                            <Description><![CDATA[Given  I have a calculator <br>When  I add 5 and 7 <br>Then  The result should be 12 <br><br><br>]]></Description>
+                            <StartTime>2026-01-08 10:48:26</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration><![CDATA[00:00:00.006]]></Duration>
+                            <Extension>
+                                <Any>
+                                    <IconKey>Scenario</IconKey>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                </Any>
+                            </Extension>
+                        </Data>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>Given </b>I have a calculator]]></Name>
+                                <Description/>
+                                <StartTime>2026-01-08 10:48:26</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.002]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>When </b>I add 5 and 7]]></Name>
+                                <Description/>
+                                <StartTime>2026-01-08 10:48:26</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.001]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>Then </b>The result should be 12]]></Name>
+                                <Description/>
+                                <StartTime>2026-01-08 10:48:26</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.001]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                    </ReportNode>
+                </ReportNode>
+            </ReportNode>
+        </ReportNode>
+    </ReportNode>
+</Results>
