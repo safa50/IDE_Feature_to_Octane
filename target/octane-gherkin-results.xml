@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><features version="1">
-    <feature name="Calculator Addition" path="com\opentext\FTDFeature.feature" started="1767877753299" tag="">
-        <file><![CDATA[Feature: Calculator Addition
+    <feature name="Calculator Addition" path="com\opentext\FTDFeature.feature" started="1767879920800" tag="@TID3001REV0.0.1">
+        <file><![CDATA[#Auto generated Octane revision tag
+@TID3001REV0.0.1
+Feature: Calculator Addition
 
   Scenario: Add two numbers
     Given I have a calculator
@@ -10,9 +12,9 @@
         <scenarios>
             <scenario name="Add two numbers">
                 <steps>
-                    <step duration="1271000" name="Given I have a calculator" status="passed"/>
-                    <step duration="478700" name="When I add 5 and 7" status="passed"/>
-                    <step duration="2070901" name="Then The result should be 12" status="passed"/>
+                    <step duration="900500" name="Given I have a calculator" status="passed"/>
+                    <step duration="170900" name="When I add 5 and 7" status="passed"/>
+                    <step duration="1119200" name="Then The result should be 12" status="passed"/>
                 </steps>
             </scenario>
         </scenarios>
