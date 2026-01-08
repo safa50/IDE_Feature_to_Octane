@@ -1,7 +1,7 @@
 <Results>
     <GeneralInfo>
         <Name/>
-        <RunStartTime>2026-01-08 10:48:26</RunStartTime>
+        <RunStartTime>2026-01-08 12:35:05</RunStartTime>
         <Timezone>GMT+0000 (Coordinated Universal Time)</Timezone>
         <OrchestrationToolName>JUnit</OrchestrationToolName>
         <OrchestrationToolVersion/>
@@ -11,10 +11,10 @@
         <Data>
             <Name>Run Results</Name>
             <Description><![CDATA[ ]]></Description>
-            <StartTime>2026-01-08 10:48:26</StartTime>
+            <StartTime>2026-01-08 12:35:05</StartTime>
             <Result>Passed</Result>
             <Links/>
-            <Duration><![CDATA[00:00:00.253]]></Duration>
+            <Duration><![CDATA[00:00:00.300]]></Duration>
             <Extension>
                 <Any>
                     <IconKey>Run</IconKey>
@@ -26,7 +26,7 @@
                 <HostName>nimbusclient</HostName>
                 <NumberOfCores>8</NumberOfCores>
                 <CpuInfo/>
-                <TotalMemory>10641</TotalMemory>
+                <TotalMemory>11619</TotalMemory>
                 <Locale><![CDATA[en-US]]></Locale>
                 <Timezone><![CDATA[GMT+0000 (Coordinated Universal Time)]]></Timezone>
                 <User><![CDATA[nimbusclient\demo]]></User>
@@ -39,10 +39,10 @@
             <Data>
                 <Name><![CDATA[com.opentext]]></Name>
                 <Description><![CDATA[Version: N/A]]></Description>
-                <StartTime>2026-01-08 10:48:26</StartTime>
+                <StartTime>2026-01-08 12:35:06</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration><![CDATA[00:00:00.013]]></Duration>
+                <Duration><![CDATA[00:00:00.020]]></Duration>
                 <Extension>
                     <Any>
                         <IconKey>Package</IconKey>
@@ -54,10 +54,10 @@
                 <Data>
                     <Name><![CDATA[com.opentext.FTDTest]]></Name>
                     <Description/>
-                    <StartTime>2026-01-08 10:48:26</StartTime>
+                    <StartTime>2026-01-08 12:35:06</StartTime>
                     <Result>Passed</Result>
                     <Links/>
-                    <Duration><![CDATA[00:00:00.013]]></Duration>
+                    <Duration><![CDATA[00:00:00.020]]></Duration>
                     <Extension>
                         <Any>
                             <IconKey>Class</IconKey>
@@ -69,10 +69,10 @@
                     <Data>
                         <Name><![CDATA[<b>Feature: </b>Calculator Addition]]></Name>
                         <Description/>
-                        <StartTime>2026-01-08 10:48:26</StartTime>
+                        <StartTime>2026-01-08 12:35:06</StartTime>
                         <Result>Passed</Result>
                         <Links/>
-                        <Duration><![CDATA[00:00:00.010]]></Duration>
+                        <Duration><![CDATA[00:00:00.012]]></Duration>
                         <Extension>
                             <Any>
                                 <IconKey>Feature</IconKey>
@@ -84,7 +84,7 @@
                         <Data>
                             <Name><![CDATA[<b>Scenario: </b>Add two numbers]]></Name>
                             <Description><![CDATA[Given  I have a calculator <br>When  I add 5 and 7 <br>Then  The result should be 12 <br><br><br>]]></Description>
-                            <StartTime>2026-01-08 10:48:26</StartTime>
+                            <StartTime>2026-01-08 12:35:06</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration><![CDATA[00:00:00.006]]></Duration>
@@ -99,10 +99,10 @@
                             <Data>
                                 <Name><![CDATA[<b>Given </b>I have a calculator]]></Name>
                                 <Description/>
-                                <StartTime>2026-01-08 10:48:26</StartTime>
+                                <StartTime>2026-01-08 12:35:06</StartTime>
                                 <Result>Passed</Result>
                                 <Links/>
-                                <Duration><![CDATA[00:00:00.002]]></Duration>
+                                <Duration><![CDATA[00:00:00.001]]></Duration>
                                 <Extension>
                                     <Any>
                                         <IsHtmlErrorText>true</IsHtmlErrorText>
@@ -114,10 +114,10 @@
                             <Data>
                                 <Name><![CDATA[<b>When </b>I add 5 and 7]]></Name>
                                 <Description/>
-                                <StartTime>2026-01-08 10:48:26</StartTime>
+                                <StartTime>2026-01-08 12:35:06</StartTime>
                                 <Result>Passed</Result>
                                 <Links/>
-                                <Duration><![CDATA[00:00:00.001]]></Duration>
+                                <Duration><![CDATA[00:00:00.000]]></Duration>
                                 <Extension>
                                     <Any>
                                         <IsHtmlErrorText>true</IsHtmlErrorText>
@@ -129,10 +129,10 @@
                             <Data>
                                 <Name><![CDATA[<b>Then </b>The result should be 12]]></Name>
                                 <Description/>
-                                <StartTime>2026-01-08 10:48:26</StartTime>
+                                <StartTime>2026-01-08 12:35:06</StartTime>
                                 <Result>Passed</Result>
                                 <Links/>
-                                <Duration><![CDATA[00:00:00.001]]></Duration>
+                                <Duration><![CDATA[00:00:00.002]]></Duration>
                                 <Extension>
                                     <Any>
                                         <IsHtmlErrorText>true</IsHtmlErrorText>
