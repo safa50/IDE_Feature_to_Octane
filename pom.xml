@@ -18,6 +18,7 @@
             <groupId>com.hp.lft</groupId>
             <artifactId>sdk</artifactId>
             <version>2025.2.0</version>
+            <scope>system</scope>
             <systemPath>${project.basedir}/libs/com.hp.lft.sdk-2025.2.0.jar</systemPath>
         </dependency>
 
@@ -25,6 +26,7 @@
             <groupId>com.hp.lft</groupId>
             <artifactId>report</artifactId>
             <version>2025.2.0</version>
+            <scope>system</scope>
             <systemPath>${project.basedir}/libs/com.hp.lft.report-2025.2.0.jar</systemPath>
         </dependency>
 
@@ -32,6 +34,7 @@
             <groupId>com.hp.lft</groupId>
             <artifactId>unittesting</artifactId>
             <version>2025.2.0</version>
+            <scope>system</scope>
             <systemPath>${project.basedir}/libs/com.hp.lft.unittesting-2025.2.0.jar</systemPath>
         </dependency>
 
@@ -39,6 +42,7 @@
             <groupId>com.hp.lft</groupId>
             <artifactId>verifications</artifactId>
             <version>2025.2.0</version>
+            <scope>system</scope>
             <systemPath>${project.basedir}/libs/com.hp.lft.verifications-2025.2.0.jar</systemPath>
         </dependency>
 
@@ -46,6 +50,7 @@
             <groupId>com.hp.lft</groupId>
             <artifactId>cucumberv4</artifactId>
             <version>2025.2.0</version>
+            <scope>system</scope>
             <systemPath>${project.basedir}/libs/com.hp.lft.cucumberv4-2025.2.0.jar</systemPath>
         </dependency>
 
