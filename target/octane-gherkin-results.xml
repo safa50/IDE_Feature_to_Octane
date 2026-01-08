@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><features version="1">
+    <feature name="Calculator Addition" path="com\opentext\FTDFeature.feature" started="1767877753299" tag="">
+        <file><![CDATA[Feature: Calculator Addition
+
+  Scenario: Add two numbers
+    Given I have a calculator
+    When I add 5 and 7
+    Then The result should be 12
+]]></file>
+        <scenarios>
+            <scenario name="Add two numbers">
+                <steps>
+                    <step duration="1271000" name="Given I have a calculator" status="passed"/>
+                    <step duration="478700" name="When I add 5 and 7" status="passed"/>
+                    <step duration="2070901" name="Then The result should be 12" status="passed"/>
+                </steps>
+            </scenario>
+        </scenarios>
+    </feature>
+</features>
