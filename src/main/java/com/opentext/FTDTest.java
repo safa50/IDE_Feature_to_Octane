@@ -25,6 +25,9 @@ public class FTDTest extends UnitTestClassBase {
 
     @BeforeClass
     public static void setUpBeforeClass() throws Exception {
+        // Manually set the address before the SDK initializes
+        System.setProperty("lft.server.address", "ws://192.168.1.79:5095");
+
         instance = new FTDTest();
         globalSetup(FTDTest.class);
     }
